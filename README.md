@@ -1,4 +1,4 @@
-# DSCMgmtPack Version 1.1.0.0 (beta)
+# DSCMgmtPack Version 1.0.1.0 (beta)
 
 SCOM Management Pack for the DSC (Desired State Configuration) Projekt you will find here: https://github.com/dsccommunity/dscworkshop i
 
